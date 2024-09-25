@@ -190,7 +190,7 @@ class Controller():
         
     
     def redirect_to_faq(self):
-        link = "https://github.com/mattospedrof"
+        link = "https://github.com/mattospedrof/Transform_Fasta"
         webbrowser.open_new_tab(link)
         messagebox.showinfo("Check your browser", "A new tab opened with the FAQ link")
         
