@@ -1,4 +1,4 @@
-![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em_Desenvolvimento-green)
+![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em_Desenvolvimento-darkblue)
 
 # **FAQ**
 **en-US:**
